@@ -1,4 +1,4 @@
-<h3 align="left">👋 Hi, I'm <a href="https://github.com/zhouycheng">Justin</a></h3>
+<h3 align="left">👋 Hi, I'm Justin</h3>
 
 <p align="left">
   I build software, developer tools, and interactive experiences.<br />
