@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm <a href="https://github.com/zhouycheng">Justin</a></h1>
 
-<!--
-**zhouycheng/zhouycheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  I build software, developer tools, and interactive experiences.<br />
+  <a href="https://zhoust.cn">Website</a> · <a href="https://github.com/zhouycheng">GitHub</a>
+</p>
 
-Here are some ideas to get you started:
+## 📊 GitHub at a glance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/zhouycheng">
+    <img height="180" src="https://github-stats-extended.vercel.app/api?username=zhouycheng&amp;include_all_commits=true&amp;show_icons=true&amp;theme_light=light_github&amp;theme_dark=dark_github" alt="GitHub stats for zhouycheng" />
+  </a>
+  <a href="https://github.com/zhouycheng?tab=repositories">
+    <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=zhouycheng&amp;layout=compact&amp;langs_count=6&amp;theme_light=light_github&amp;theme_dark=dark_github" alt="Most used languages in zhouycheng's public repositories" />
+  </a>
+</p>
+
+<sub>Stats use public repositories. Language percentages reflect code volume in your own non-forked repositories.</sub>
